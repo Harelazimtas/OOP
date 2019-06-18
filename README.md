@@ -14,10 +14,12 @@ I implement it with a queue with priorities like max heap.
 The C class describes a very fast delete operation and priority add operation after the fastest deletion.
 I implement it with the construction of Linked List that i create.
 
-LinkedListA 
+LinkedListA
+
 Add-set all entity that add in the first location.
 Delete - Go through the entire list and delete the entity with the maximum value.
 
 LinkedListC
+
 Add- Put each entity in its exact location by value.
 Delete- delete the first entity.
