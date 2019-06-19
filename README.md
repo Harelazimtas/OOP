@@ -1,7 +1,7 @@
 # OOP
 This project is about object oriented in Java
 
-This project is divided into three opreation: A B C.
+This project is divided into three opreation: A B C.  
 For each opreation, the addition and deletion  must be implemented in the most efficient manner W.C.
 
 Class A indicates the fastest addition to the collection, followed by quick delete as quickly as possible,
