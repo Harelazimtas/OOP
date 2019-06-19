@@ -1,8 +1,8 @@
 # OOP
 This project is about object oriented in Java
 
-This project is divided into three entities.
-For each entity, the addition and deletion operation must be implemented in the most efficient manner W.C.
+This project is divided into three opreation: A B C.
+For each opreation, the addition and deletion  must be implemented in the most efficient manner W.C.
 
 Class A indicates the fastest addition to the collection, followed by quick delete as quickly as possible,
 Which means the priority is to add quickly and then to delete quickly.
