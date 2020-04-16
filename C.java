@@ -18,8 +18,4 @@ public class C implements EntityCollection {
 		return LinkedListC.removeEntity();
 	}
 
-	public LinkedListC getLinkedListC() {
-		return LinkedListC;
-	}
-
 }
