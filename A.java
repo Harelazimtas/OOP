@@ -16,13 +16,6 @@ public class A implements EntityCollection {
 	@Override
 	public Entity removeMaxValue() {
 		return this.linkedlistA.removeEntity();
-	}
-
-	public LinkedListA getLinkedlistA() {
-		return linkedlistA;
-	}
-	
-	
-	
+	}	
 
 }
